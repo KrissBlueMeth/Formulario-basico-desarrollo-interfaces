@@ -1,0 +1,12 @@
+El formulario principal tiene los datos básicos (nombre, edad y email). Además, hay una ventana emergente (el “cuadro” que se abre encima de la página)
+ que se usa solo para añadir nuevos campos al formulario cuando el usuario lo necesita. Cada parte tiene su función y está separada visualmente.
+
+También he añadido comprobaciones antes de enviar el formulario. Si el nombre está vacío, la edad no tiene sentido o el correo no parece válido,
+ se muestran mensajes al lado de cada campo explicando qué falta o qué está mal, y no se deja enviar hasta que se corrija.
+  Así se guía al usuario para que rellene los datos de forma correcta.
+
+Por último, la página cambia sobre la marcha sin recargar: se puede abrir y cerrar la ventana emergente,
+añadir nuevos campos al formulario o eliminar el último campo extra, todo con botones. Esos cambios se van viendo al instante en la pantalla,
+haciendo el formulario más flexible y fácil de usar.
+
+He tenido que hacer esto deprisa y corriendo por que ya no me daba tiempo lo siento :);
