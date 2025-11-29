@@ -8,12 +8,12 @@ El objetivo principal de esta actividad fue diseñar e implementar una interfaz 
 
 ### Funcionalidades Clave:
 
-* [cite_start]**Formulario Base:** Captura datos de usuario esenciales (nombre, edad, correo electrónico)[cite: 14].
-* [cite_start]**Campos Dinámicos:** Implementación de un botón para **añadir** nuevos campos personalizados (ej. "Afición", "Red social favorita") y otro botón para **eliminar** el último campo añadido[cite: 15, 16, 23].
-* [cite_start]**Validaciones:** Uso de validaciones HTML5 (como `required`) para campos obligatorios (nombre y correo electrónico)[cite: 17, 24].
-* [cite_start]**Diseño Responsive:** Aplicación de estilos CSS para una buena presentación y adaptación a pantallas pequeñas (móviles) usando `media queries`[cite: 18, 25].
-* [cite_start]**Reutilización:** Implementación de al menos un componente reutilizable (por ejemplo, un cuadro de diálogo o un modal)[cite: 19, 26].
-* [cite_start]**Manipulación del DOM:** Uso de JavaScript para incorporar y eliminar elementos del formulario de manera eficiente[cite: 11, 23].
+* **Formulario Base:** Captura datos de usuario esenciales (nombre, edad, correo electrónico).
+* **Campos Dinámicos:** Implementación de un botón para **añadir** nuevos campos personalizados (ej. "Afición", "Red social favorita") y otro botón para **eliminar** el último campo añadido.
+* **Validaciones:** Uso de validaciones HTML5 (como `required`) para campos obligatorios (nombre y correo electrónico).
+* **Diseño Responsive:** Aplicación de estilos CSS para una buena presentación y adaptación a pantallas pequeñas (móviles) usando `media queries`.
+* **Reutilización:** Implementación de al menos un componente reutilizable (por ejemplo, un cuadro de diálogo o un modal).
+* **Manipulación del DOM:** Uso de JavaScript para incorporar y eliminar elementos del formulario de manera eficiente.
 
 ## Captura de Pantalla del Formulario
 
@@ -23,7 +23,7 @@ Aquí se muestra la interfaz del formulario dinámico:
 
 ## Tecnologías Utilizadas
 
-* [cite_start]**HTML5:** Estructura básica del formulario y uso de atributos de validación nativos (`required`, `pattern`)[cite: 9, 24].
-* [cite_start]**CSS3:** Estilizado, maquetación y diseño *responsive*[cite: 18, 25].
-* [cite_start]**JavaScript:** Manejo dinámico del DOM para añadir/eliminar campos, implementar la interactividad y los cuadros de diálogo[cite: 11, 23].
+* **HTML5:** Estructura básica del formulario y uso de atributos de validación nativos (`required`, `pattern`).
+* **CSS3:** Estilizado, maquetación y diseño *responsive*.
+* **JavaScript:** Manejo dinámico del DOM para añadir/eliminar campos, implementar la interactividad y los cuadros de diálogo.
 * **Visual Studio Code:** Entorno de desarrollo utilizado.
